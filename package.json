@@ -1,0 +1,20 @@
+{
+  "name": "isp-o-meter",
+  "version": "1.0.0",
+  "description": "Quick and Drity internet speed data collection and graphing (speedtest-cli wrapper)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenbeauchamp/isp-o-meter.git"
+  },
+  "author": "Stephen Beauchamp",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/stephenbeauchamp/isp-o-meter/issues"
+  },
+  "homepage": "https://github.com/stephenbeauchamp/isp-o-meter#readme"
+}
